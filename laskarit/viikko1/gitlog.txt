@@ -1,0 +1,131 @@
+commit a4c5c79ce0c0a039039b4c192e62c7e5eb04074e
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:34:22 2018 +0200
+
+    muokkausta ja poistoja
+
+ tiedostoja/file2.txt                 | 0
+ tiedostoja/{file1.txt => file22.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 7a5c707cd5413e2370716d9edc56e8cb89b88b03
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:30:02 2018 +0200
+
+    uusi hakemisto ja tiedostoja
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8647eabd523560746092a7ff94c54ab41c02a374
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:18:59 2018 +0200
+
+    tiedostojen muokkailua
+
+ eka.txt    | 1 +
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 442826c7a2041ff42c8d2dfb6346918899b7ce96
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:15:09 2018 +0200
+
+    nimen muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 30b8460883918f506e839e42acf3e53f0e5d9841
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:14:06 2018 +0200
+
+    poistettu toinen
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 708b8855c711832314e0ed1018ad2d7b7daa1570
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:11:31 2018 +0200
+
+    virheen korjaus
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 65ce6b15215cb784270effdd1f6b9c91b7708a1d
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:08:49 2018 +0200
+
+    poistettu tiedosto
+
+ tiedosto.txt | 7 -------
+ 1 file changed, 7 deletions(-)
+
+commit f4c12ff0aa47df98d1218fb554bd9e088daba90c
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:06:13 2018 +0200
+
+    muokattu tiedostoa lis‰‰
+
+ tiedosto.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit a3ced82c740c9b0f0b909d9eac053845f5aa0435
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 16:04:49 2018 +0200
+
+    muokattu tiedostoa
+
+ tiedosto.txt | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 408d0547dc7ab7e3fd1b2d02fb615d56fa898c41
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 14:22:35 2018 +0200
+
+    uusi kansio ja tiedosto
+
+ stuff/jokin.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 42445960609d69b1d3f2d6432babfc7b501b48df
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 14:19:11 2018 +0200
+
+    toisen ja kolmannen tiedoston muokkaus
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 87919ea92a1f53b3131ad77c0d777eab36466ef9
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 14:15:02 2018 +0200
+
+    kolmas lis‰ys
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit df0ab5c296d404e80ca335ff2f37da0efcac2d76
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 14:08:09 2018 +0200
+
+    muutos ja lis‰ys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit d2b33b263c1949724435adfb84fcb744e2516f64
+Author: samilait <sami.p.laitinen@gmail.com>
+Date:   Wed Mar 14 13:55:16 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
